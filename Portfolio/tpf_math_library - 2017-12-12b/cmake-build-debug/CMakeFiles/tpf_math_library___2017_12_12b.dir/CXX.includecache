@@ -1,0 +1,452 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tpf_detect_leak.h
+iostream
+-
+sstream
+-
+string
+-
+cstdlib
+-
+crtdbg.h
+-
+
+../include/tpf_enum_combi.h
+tpf_smart_output.h
+../include/tpf_smart_output.h
+tpf_rational_number.h
+../include/tpf_rational_number.h
+tpf_ncr_npr.h
+../include/tpf_ncr_npr.h
+tpf_traits.h
+../include/tpf_traits.h
+
+../include/tpf_enum_permu.h
+tpf_rational_number.h
+../include/tpf_rational_number.h
+tpf_ncr_npr.h
+../include/tpf_ncr_npr.h
+tpf_smart_output.h
+../include/tpf_smart_output.h
+tpf_traits.h
+../include/tpf_traits.h
+iostream
+-
+sstream
+-
+vector
+-
+exception
+-
+cstdint
+-
+iomanip
+-
+string
+-
+
+../include/tpf_gcd_lcm.h
+utility
+-
+deque
+-
+functional
+-
+vector
+-
+type_traits
+-
+
+../include/tpf_ncr_npr.h
+cstdint
+-
+sstream
+-
+exception
+-
+type_traits
+-
+tpf_rational_number.h
+../include/tpf_rational_number.h
+
+../include/tpf_prime_factorization.h
+set
+-
+vector
+-
+iostream
+-
+tpf_prime_numbers.h
+../include/tpf_prime_numbers.h
+
+../include/tpf_prime_numbers.h
+vector
+-
+set
+-
+cmath
+-
+utility
+-
+algorithm
+-
+functional
+-
+thread
+-
+iostream
+-
+fstream
+-
+exception
+-
+atomic
+-
+ios
+-
+iterator
+-
+tpf_types.h
+../include/tpf_types.h
+tpf_stop_watch.h
+../include/tpf_stop_watch.h
+tpf_split_range.h
+../include/tpf_split_range.h
+tpf_smart_output.h
+../include/tpf_smart_output.h
+tpf_random.h
+../include/tpf_random.h
+tpf_gcd_lcm.h
+../include/tpf_gcd_lcm.h
+
+../include/tpf_random.h
+chrono
+-
+random
+-
+tpf_stop_watch.h
+../include/tpf_stop_watch.h
+
+../include/tpf_rational_number.h
+exception
+-
+iostream
+-
+sstream
+-
+cstdint
+-
+limits
+-
+type_traits
+-
+tpf_gcd_lcm.h
+../include/tpf_gcd_lcm.h
+tpf_unsigned_rational.h
+../include/tpf_unsigned_rational.h
+
+../include/tpf_set_operation.h
+tpf_smart_output.h
+../include/tpf_smart_output.h
+
+../include/tpf_smart_output.h
+iostream
+-
+sstream
+-
+string
+-
+locale
+-
+iomanip
+-
+utility
+-
+tpf_stop_watch.h
+../include/tpf_stop_watch.h
+tpf_traits.h
+../include/tpf_traits.h
+
+../include/tpf_split_range.h
+tmp_split_ranges.h
+../include/tmp_split_ranges.h
+iostream
+-
+iomanip
+-
+locale
+-
+sstream
+-
+vector
+-
+thread
+-
+functional
+-
+future
+-
+utility
+-
+string
+-
+tpf_types.h
+../include/tpf_types.h
+
+../include/tpf_stop_watch.h
+chrono
+-
+cstdint
+-
+locale
+-
+iostream
+-
+algorithm
+-
+tpf_types.h
+../include/tpf_types.h
+tpf_string.h
+../include/tpf_string.h
+
+../include/tpf_string.h
+string
+-
+sstream
+-
+algorithm
+-
+locale
+-
+
+../include/tpf_traits.h
+vector
+-
+deque
+-
+set
+-
+unordered_set
+-
+map
+-
+unordered_map
+-
+iostream
+-
+sstream
+-
+string
+-
+locale
+-
+deque
+-
+iomanip
+-
+utility
+-
+type_traits
+-
+iterator
+-
+
+../include/tpf_types.h
+cstdint
+-
+
+../include/tpf_unsigned_rational.h
+exception
+-
+iostream
+-
+sstream
+-
+cstdint
+-
+limits
+-
+type_traits
+-
+tpf_gcd_lcm.h
+../include/tpf_gcd_lcm.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/000-Traits/TraitsSource.cpp
+tpf_smart_output.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/000-Traits/tpf_smart_output.h
+iostream
+-
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/001-StopWatch/StopWatchSource.cpp
+tpf_stop_watch.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/001-StopWatch/tpf_stop_watch.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/002-Random/RandomSource.cpp
+tpf_random.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/002-Random/tpf_random.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/003-String/StringSource.cpp
+tpf_string.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/003-String/tpf_string.h
+iostream
+-
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/004-DetectMemoryLeak/DetectMemoryLeakSource.cpp
+tpf_detect_leak.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/004-DetectMemoryLeak/tpf_detect_leak.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/005-SplitRange/SplitRangeSource.cpp
+tpf_split_range.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/005-SplitRange/tpf_split_range.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/006-PrimeNumbers/PrimeNumbersSource.cpp
+tpf_prime_numbers.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/006-PrimeNumbers/tpf_prime_numbers.h
+tpf_detect_leak.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/006-PrimeNumbers/tpf_detect_leak.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/007-SmartOutput/SmartOutputSource.cpp
+tpf_types.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/007-SmartOutput/tpf_types.h
+tpf_smart_output.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/007-SmartOutput/tpf_smart_output.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/008-EuclideanAlgorithm/EuclideanAlgorithmSource.cpp
+tpf_gcd_lcm.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/008-EuclideanAlgorithm/tpf_gcd_lcm.h
+tpf_stop_watch.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/008-EuclideanAlgorithm/tpf_stop_watch.h
+tpf_random.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/008-EuclideanAlgorithm/tpf_random.h
+tpf_prime_numbers.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/008-EuclideanAlgorithm/tpf_prime_numbers.h
+tpf_smart_output.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/008-EuclideanAlgorithm/tpf_smart_output.h
+iostream
+-
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/009-SetOperation/SetOperationSource.cpp
+tpf_smart_output.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/009-SetOperation/tpf_smart_output.h
+tpf_set_operation.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/009-SetOperation/tpf_set_operation.h
+tpf_prime_factorization.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/009-SetOperation/tpf_prime_factorization.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/010-PrimeFactorization/PrimeFactorizationSource.cpp
+tpf_prime_factorization.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/010-PrimeFactorization/tpf_prime_factorization.h
+tpf_stop_watch.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/010-PrimeFactorization/tpf_stop_watch.h
+tpf_smart_output.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/010-PrimeFactorization/tpf_smart_output.h
+iostream
+-
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/011-RationalNumber/RationalNumberSource.cpp
+tpf_rational_number.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/011-RationalNumber/tpf_rational_number.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/012-nCr-nPr/nCr-nPr-Source.cpp
+tpf_ncr_npr.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/012-nCr-nPr/tpf_ncr_npr.h
+utility
+-
+cstdint
+-
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/013-CombinationPermutation/CombinationPermutationSource.cpp
+algorithm
+-
+iomanip
+-
+limits
+-
+tpf_smart_output.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/013-CombinationPermutation/tpf_smart_output.h
+tpf_enum_combi.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/013-CombinationPermutation/tpf_enum_combi.h
+tpf_enum_permu.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/013-CombinationPermutation/tpf_enum_permu.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/014-ChineseRemainderTheorem/ChineseRemainderTheoremSource.cpp
+tpf_gcd_lcm.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/014-ChineseRemainderTheorem/tpf_gcd_lcm.h
+tpf_enum_combi.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/014-ChineseRemainderTheorem/tpf_enum_combi.h
+tpf_traits.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/014-ChineseRemainderTheorem/tpf_traits.h
+tpf_smart_output.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/014-ChineseRemainderTheorem/tpf_smart_output.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/015-FastModuloComputation/FastModuloComputationSource.cpp
+iostream
+-
+tpf_gcd_lcm.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/015-FastModuloComputation/tpf_gcd_lcm.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/016-RSA-Algorithm/RSA-Algorithm-Source.cpp
+iostream
+-
+tpf_gcd_lcm.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/016-RSA-Algorithm/tpf_gcd_lcm.h
+tpf_prime_numbers.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/016-RSA-Algorithm/tpf_prime_numbers.h
+tpf_stop_watch.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/016-RSA-Algorithm/tpf_stop_watch.h
+tpf_random.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/016-RSA-Algorithm/tpf_random.h
+tpf_smart_output.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/016-RSA-Algorithm/tpf_smart_output.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/017-RSA-Demo/RSA-Demo-Source.cpp
+iostream
+-
+cstdlib
+-
+fstream
+-
+string
+-
+algorithm
+-
+clocale
+-
+conio.h
+-
+Windows.h
+-
+tpf_gcd_lcm.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/017-RSA-Demo/tpf_gcd_lcm.h
+tpf_prime_numbers.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/017-RSA-Demo/tpf_prime_numbers.h
+tpf_smart_output.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/017-RSA-Demo/tpf_smart_output.h
+locale.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/017-RSA-Demo/locale.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256/main.cpp
+iostream
+-
+sha256.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256/sha256.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256/sha256.cpp
+cstring
+-
+fstream
+-
+sha256.h
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256/sha256.h
+
+/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256/sha256.h
+string
+-
+

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tpf_math_library___2017_12_12b"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tpf_math_library___2017_12_12b">
+				<Option output="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/cmake-build-debug/tpf_math_library___2017_12_12b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include"/>
+					<Add directory="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 tpf_math_library___2017_12_12b"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tpf_math_library___2017_12_12b/fast">
+				<Option output="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/cmake-build-debug/tpf_math_library___2017_12_12b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include"/>
+					<Add directory="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 tpf_math_library___2017_12_12b/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/user/Downloads/tpf_math_library\ -\ 2017-12-12b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/000-Traits/TraitsSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/001-StopWatch/StopWatchSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/002-Random/RandomSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/003-String/StringSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/004-DetectMemoryLeak/DetectMemoryLeakSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/005-SplitRange/SplitRangeSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/006-PrimeNumbers/PrimeNumbersSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/007-SmartOutput/SmartOutputSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/008-EuclideanAlgorithm/EuclideanAlgorithmSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/009-SetOperation/SetOperationSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/010-PrimeFactorization/PrimeFactorizationSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/011-RationalNumber/RationalNumberSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/012-nCr-nPr/nCr-nPr-Source.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/013-CombinationPermutation/CombinationPermutationSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/014-ChineseRemainderTheorem/ChineseRemainderTheoremSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/015-FastModuloComputation/FastModuloComputationSource.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/016-RSA-Algorithm/RSA-Algorithm-Source.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/017-RSA-Demo/RSA-Demo-Source.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256/main.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256/sha256.cpp">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/TPF_Math_Library/SHA256/sha256.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_detect_leak.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_enum_combi.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_enum_permu.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_gcd_lcm.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_ncr_npr.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_prime_factorization.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_prime_numbers.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_random.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_rational_number.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_set_operation.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_smart_output.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_split_range.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_stop_watch.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_string.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_term.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_traits.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_types.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/include/tpf_unsigned_rational.h">
+			<Option target="tpf_math_library___2017_12_12b"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/user/Downloads/tpf_math_library - 2017-12-12b/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
